@@ -1,0 +1,58 @@
+{
+  "todos": [
+    {
+      "userId": 10,
+      "title": "Купить BMW",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "userId": 10,
+      "title": "Забрать деньги",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "userId": 10,
+      "title": "Подарить подарок",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "userId": 10,
+      "title": "Съесть KFC",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "userId": 10,
+      "title": "Искупаться в бассейне",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "userId": 10,
+      "title": "Позагарать",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "userId": 10,
+      "title": "Поменять батарейку в часах Montana",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "userId": 10,
+      "title": "Постирать носки",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "userId": 10,
+      "title": "123456",
+      "completed": true,
+      "id": 10
+    }
+  ]
+}
